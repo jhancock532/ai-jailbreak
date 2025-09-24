@@ -4,8 +4,6 @@
 
 You're running a popular bakery website, but AI crawlers are stealing and repurposing your precious recipes! Do what you can to get back at them, hiding prompts in an example webpage to see if you can modify their AI summariser's output. 
 
-Either work collaboratively, completing challenges to get the AI to return increasingly irrelevant information, or split into two teams, battling against each other to control the AI's output.
-
 ## Resources
 
 The `index.html` file is the website page that needs protected. The `summariser.js` file loads the webpage, using ChatGPT to summarise the recipe contents with a conventional prompt.
